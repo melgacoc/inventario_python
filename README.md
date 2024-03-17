@@ -1,4 +1,4 @@
-# Pokedex
+# Inventário com Python
 
 ## Aplicação
 A aplicação foi feita para extrair dados de documentos a fim de gerar relatórios simples ou completos.
